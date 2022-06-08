@@ -15,7 +15,7 @@
     <name>log</name>
     <description>操作日志工具</description>
     <dependencyManagement>
-       
+    <dependencies>
             <dependency>
                 <groupId>com.baomidou</groupId>
                 <artifactId>mybatis-plus-boot-starter</artifactId>
